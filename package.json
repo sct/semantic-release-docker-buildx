@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-docker-buildx",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "semantic-release step to build docker images with buildx and push them",
   "main": "index.js",
   "scripts": {

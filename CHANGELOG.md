@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/sct/semantic-release-docker-buildx/compare/v1.0.0...v1.0.1) (2021-03-12)
+
+
+### Bug Fixes
+
+* also expand image tags array ([1ac5a10](https://github.com/sct/semantic-release-docker-buildx/commit/1ac5a10333df5c26093551ecd6bfab88648fef04))
+
 # 1.0.0 (2021-03-12)
 
 
